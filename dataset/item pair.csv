@@ -1,0 +1,993 @@
+Item_1,Item_2,Frequency,Support
+Bread,Coffee,1081,0.1146
+Cake,Coffee,714,0.0757
+Coffee,Pastry,613,0.0650
+Coffee,Tea,546,0.0579
+Coffee,Sandwich,537,0.0569
+Coffee,Medialuna,438,0.0464
+Coffee,Cookies,382,0.0405
+Coffee,"Hot chocolate",341,0.0362
+Bread,Pastry,313,0.0332
+Bread,Tea,304,0.0322
+Coffee,Toast,296,0.0314
+Cake,Tea,269,0.0285
+Alfajores,Coffee,268,0.0284
+Bread,Cake,255,0.0270
+Coffee,Juice,251,0.0266
+Brownie,Coffee,237,0.0251
+Coffee,Muffin,227,0.0241
+Coffee,Scone,219,0.0232
+Coffee,Soup,201,0.0213
+Bread,Sandwich,200,0.0212
+Bread,Medialuna,174,0.0184
+Sandwich,Tea,157,0.0166
+Bread,Cookies,149,0.0158
+Bread,"Hot chocolate",147,0.0156
+Coffee,"Spanish Brunch",129,0.0137
+Alfajores,Bread,121,0.0128
+Cake,"Hot chocolate",116,0.0123
+Bread,Brownie,115,0.0122
+Soup,Tea,109,0.0116
+Cookies,Tea,101,0.0107
+Pastry,Tea,100,0.0106
+Coffee,Tiffin,98,0.0104
+Bread,Scone,97,0.0103
+Medialuna,Pastry,96,0.0102
+Medialuna,Tea,89,0.0094
+Scone,Tea,89,0.0094
+Coffee,Salad,84,0.0089
+"Hot chocolate",Tea,83,0.0088
+Bread,Muffin,81,0.0086
+Cake,Sandwich,81,0.0086
+Bread,Soup,78,0.0083
+Cake,Cookies,77,0.0082
+Coffee,Truffles,77,0.0082
+Bread,Toast,77,0.0082
+Cookies,"Hot chocolate",76,0.0081
+Bread,Juice,76,0.0081
+Coffee,"Farm House",76,0.0081
+Juice,Sandwich,76,0.0081
+Coffee,"Jammie Dodgers",76,0.0081
+Juice,Tea,75,0.0080
+Alfajores,Tea,73,0.0077
+Cake,Juice,72,0.0076
+Coffee,"Hearty & Seasonal",71,0.0075
+Brownie,Tea,71,0.0075
+Coffee,Coke,69,0.0073
+Muffin,Tea,66,0.0070
+Bread,Scandinavian,66,0.0070
+Tea,Toast,66,0.0070
+Cookies,Juice,64,0.0068
+Coffee,"Mineral water",64,0.0068
+"Chicken Stew",Coffee,64,0.0068
+Coke,Sandwich,63,0.0067
+"Hot chocolate",Pastry,60,0.0064
+Coffee,"Keeping It Local",60,0.0064
+Coffee,Scandinavian,56,0.0059
+"Spanish Brunch",Tea,54,0.0057
+"Hot chocolate",Medialuna,53,0.0056
+Sandwich,Soup,53,0.0056
+Cake,Soup,53,0.0056
+Bread,Tiffin,52,0.0055
+Coffee,Jam,51,0.0054
+Bread,"Farm House",51,0.0054
+Bread,Jam,51,0.0054
+Cake,Pastry,51,0.0054
+Bread,Truffles,51,0.0054
+Coffee,Frittata,50,0.0053
+Cake,Muffin,49,0.0052
+"Hot chocolate",Sandwich,49,0.0052
+Bread,"Jammie Dodgers",49,0.0052
+Bread,"Spanish Brunch",49,0.0052
+Cake,Scone,46,0.0049
+Sandwich,Truffles,45,0.0048
+Coffee,"Extra Salami or Feta",45,0.0048
+Coffee,Smoothies,44,0.0047
+Alfajores,Cake,44,0.0047
+Brownie,Cake,43,0.0046
+Brownie,"Hot chocolate",42,0.0045
+Alfajores,Sandwich,42,0.0045
+Cookies,Sandwich,41,0.0043
+Coffee,"Vegan mincepie",41,0.0043
+Coffee,"The Nomad",40,0.0042
+Coffee,Fudge,39,0.0041
+Alfajores,"Hot chocolate",39,0.0041
+Cake,Medialuna,39,0.0041
+Bread,Fudge,38,0.0040
+"Hot chocolate",Muffin,38,0.0040
+Alfajores,Pastry,37,0.0039
+"Art Tray",Coffee,37,0.0039
+Bakewell,Coffee,37,0.0039
+Baguette,Coffee,37,0.0039
+"Mineral water",Sandwich,36,0.0038
+"Chicken Stew",Tea,36,0.0038
+Bread,"Mineral water",35,0.0037
+Fudge,Jam,35,0.0037
+Coffee,Tartine,34,0.0036
+Tea,Tiffin,34,0.0036
+Alfajores,Medialuna,33,0.0035
+"Hot chocolate",Toast,33,0.0035
+Cookies,Pastry,31,0.0033
+Cake,"Jammie Dodgers",31,0.0033
+Bread,"Hearty & Seasonal",30,0.0032
+Alfajores,Juice,30,0.0032
+"Hot chocolate",Scone,30,0.0032
+"Farm House",Pastry,29,0.0031
+Cookies,Medialuna,29,0.0031
+Tea,Truffles,29,0.0031
+Bread,"Chicken Stew",29,0.0031
+Juice,Muffin,27,0.0029
+Bread,Frittata,27,0.0029
+Alfajores,Cookies,27,0.0029
+Alfajores,Brownie,27,0.0029
+Brownie,Sandwich,27,0.0029
+Baguette,Bread,27,0.0029
+Juice,"Spanish Brunch",27,0.0029
+Brownie,Cookies,26,0.0028
+Cake,Truffles,26,0.0028
+"Jammie Dodgers",Tea,26,0.0028
+Bread,Smoothies,26,0.0028
+Muffin,Pastry,24,0.0025
+Juice,Pastry,24,0.0025
+Brownie,Juice,24,0.0025
+Coffee,Granola,24,0.0025
+"Hot chocolate",Juice,24,0.0025
+Pastry,Scone,24,0.0025
+Cookies,Toast,24,0.0025
+Brownie,Pastry,23,0.0024
+Bread,"Keeping It Local",23,0.0024
+Cake,Tiffin,23,0.0024
+Cake,"Spanish Brunch",23,0.0024
+"Hearty & Seasonal",Tea,22,0.0023
+Muffin,Sandwich,22,0.0023
+"Farm House",Medialuna,22,0.0023
+Coke,Juice,22,0.0023
+Medialuna,Sandwich,22,0.0023
+Juice,Toast,22,0.0023
+Cake,Toast,22,0.0023
+"Chicken Stew",Sandwich,22,0.0023
+"Mineral water",Soup,21,0.0022
+Tea,"The Nomad",21,0.0022
+"Jammie Dodgers",Juice,21,0.0022
+Coke,Tea,21,0.0022
+Salad,Tea,21,0.0022
+Bread,Coke,20,0.0021
+Juice,Medialuna,20,0.0021
+Bread,"The Nomad",20,0.0021
+Sandwich,Toast,20,0.0021
+Bread,Salad,20,0.0021
+Salad,Sandwich,20,0.0021
+Medialuna,Muffin,19,0.0020
+Frittata,Tea,19,0.0020
+Bread,Focaccia,19,0.0020
+Brownie,Medialuna,19,0.0020
+Sandwich,Smoothies,19,0.0020
+Sandwich,Scone,19,0.0020
+Cookies,Scone,19,0.0020
+Juice,Scone,19,0.0020
+Juice,Truffles,19,0.0020
+Sandwich,"Spanish Brunch",19,0.0020
+Brownie,Muffin,18,0.0019
+Medialuna,Toast,18,0.0019
+Juice,Soup,17,0.0018
+Alfajores,Muffin,17,0.0018
+"Keeping It Local",Tea,17,0.0018
+Cake,Coke,17,0.0018
+"Hot chocolate","Jammie Dodgers",17,0.0018
+Bread,"Vegan mincepie",17,0.0018
+Soup,Truffles,17,0.0018
+"Chicken Stew",Juice,17,0.0018
+Cake,Smoothies,17,0.0018
+Cake,"Chicken Stew",17,0.0018
+"Spanish Brunch",Truffles,17,0.0018
+Cookies,Muffin,16,0.0017
+Bread,Eggs,16,0.0017
+"Farm House",Scandinavian,16,0.0017
+Juice,"Mineral water",16,0.0017
+Cake,Scandinavian,16,0.0017
+Pastry,Truffles,16,0.0017
+Pastry,Toast,16,0.0017
+"Extra Salami or Feta",Salad,16,0.0017
+Fudge,Tea,15,0.0016
+"Farm House",Tea,15,0.0016
+Coke,Soup,15,0.0016
+Alfajores,Scandinavian,15,0.0016
+Brownie,Soup,15,0.0016
+Fudge,Sandwich,15,0.0016
+Cake,"Farm House",15,0.0016
+Medialuna,Scone,15,0.0016
+"Chicken Stew",Soup,15,0.0016
+Cake,Salad,15,0.0016
+Jam,Tea,14,0.0015
+"Hearty & Seasonal",Sandwich,14,0.0015
+Pastry,Scandinavian,14,0.0015
+Cookies,"Mineral water",14,0.0015
+Cake,"Mineral water",14,0.0015
+Alfajores,Scone,14,0.0015
+"Hot chocolate",Tiffin,14,0.0015
+Pastry,Sandwich,14,0.0015
+Medialuna,Scandinavian,13,0.0014
+Jam,Pastry,13,0.0014
+Muffin,Scandinavian,13,0.0014
+Cookies,Soup,13,0.0014
+"Art Tray",Tea,13,0.0014
+Bakewell,Tea,13,0.0014
+Cake,"Vegan mincepie",13,0.0014
+Salad,Soup,13,0.0014
+"Hearty & Seasonal",Soup,12,0.0013
+Coffee,Focaccia,12,0.0013
+Muffin,Soup,12,0.0013
+Cookies,"Farm House",12,0.0013
+Alfajores,"Mineral water",12,0.0013
+Medialuna,Truffles,12,0.0013
+"Mineral water",Tea,12,0.0013
+Cookies,Tiffin,12,0.0013
+Brownie,Scone,12,0.0013
+Coke,Truffles,12,0.0013
+Salad,"Spanish Brunch",12,0.0013
+Sandwich,Tiffin,12,0.0013
+Scone,Soup,12,0.0013
+Brownie,"Farm House",11,0.0012
+Brownie,Coke,11,0.0012
+Coke,"Mineral water",11,0.0012
+Brownie,Truffles,11,0.0012
+Alfajores,Truffles,11,0.0012
+Bakewell,Bread,11,0.0012
+"Mineral water",Truffles,11,0.0012
+"Chicken Stew","Spanish Brunch",11,0.0012
+"Jammie Dodgers",Tiffin,11,0.0012
+Coffee,"Duck egg",11,0.0012
+Soup,"Spanish Brunch",11,0.0012
+Bread,"Extra Salami or Feta",11,0.0012
+Tartine,Tea,10,0.0011
+Coffee,"Pick and Mix Bowls",10,0.0011
+Coffee,"Mighty Protein",10,0.0011
+Pastry,Soup,10,0.0011
+"Hot chocolate",Smoothies,10,0.0011
+Cookies,"Jammie Dodgers",10,0.0011
+"Hot chocolate","Vegan mincepie",10,0.0011
+Baguette,Cookies,10,0.0011
+"Spanish Brunch",Toast,10,0.0011
+"Chicken Stew",Coke,10,0.0011
+Juice,Salad,10,0.0011
+"Chicken Stew",Truffles,10,0.0011
+Alfajores,"Spanish Brunch",10,0.0011
+"Hot chocolate",Soup,9,0.0010
+"Hearty & Seasonal","Mineral water",9,0.0010
+Scandinavian,Tea,9,0.0010
+Brownie,"Mineral water",9,0.0010
+Bread,Granola,9,0.0010
+"Hot chocolate","Mineral water",9,0.0010
+Smoothies,Tea,9,0.0010
+"Jammie Dodgers",Muffin,9,0.0010
+Coke,Cookies,9,0.0010
+Coffee,Crisps,9,0.0010
+"Spanish Brunch","The Nomad",9,0.0010
+Baguette,Scandinavian,9,0.0010
+Smoothies,"Spanish Brunch",9,0.0010
+Juice,Tiffin,9,0.0010
+"Jammie Dodgers",Sandwich,9,0.0010
+Baguette,Cake,9,0.0010
+"Hot chocolate","Spanish Brunch",9,0.0010
+Cake,"Extra Salami or Feta",9,0.0010
+Bread,Tartine,8,0.0008
+Coffee,"My-5 Fruit Shoot",8,0.0008
+Alfajores,Fudge,8,0.0008
+Cake,"Hearty & Seasonal",8,0.0008
+Frittata,Sandwich,8,0.0008
+"Farm House","Hot chocolate",8,0.0008
+Alfajores,"Hearty & Seasonal",8,0.0008
+Cookies,Scandinavian,8,0.0008
+"Hot chocolate",Truffles,8,0.0008
+"Art Tray",Sandwich,8,0.0008
+"Art Tray",Juice,8,0.0008
+Bakewell,Cake,8,0.0008
+Muffin,Smoothies,8,0.0008
+Alfajores,Tiffin,8,0.0008
+"Extra Salami or Feta","Spanish Brunch",8,0.0008
+Baguette,Pastry,8,0.0008
+Cookies,"Spanish Brunch",8,0.0008
+Medialuna,"Spanish Brunch",8,0.0008
+Cake,"The Nomad",8,0.0008
+Medialuna,Soup,8,0.0008
+Coke,Pastry,8,0.0008
+Scone,Truffles,8,0.0008
+Crisps,Sandwich,8,0.0008
+"Farm House",Muffin,7,0.0007
+Smoothies,Soup,7,0.0007
+"Hearty & Seasonal","Hot chocolate",7,0.0007
+Alfajores,Soup,7,0.0007
+"Art Tray",Soup,7,0.0007
+Cookies,Truffles,7,0.0007
+Alfajores,Coke,7,0.0007
+Coffee,"Kids biscuit",7,0.0007
+"Art Tray","Hot chocolate",7,0.0007
+Coke,Medialuna,7,0.0007
+Fudge,Medialuna,7,0.0007
+Pastry,Tiffin,7,0.0007
+"Jammie Dodgers",Medialuna,7,0.0007
+"Mineral water",Scone,7,0.0007
+Muffin,Scone,7,0.0007
+Frittata,Scone,7,0.0007
+Tea,"Vegan mincepie",7,0.0007
+Cookies,Smoothies,7,0.0007
+Brownie,Toast,7,0.0007
+Scone,Tiffin,7,0.0007
+"Duck egg",Tea,7,0.0007
+Coffee,Eggs,7,0.0007
+Baguette,Medialuna,7,0.0007
+Medialuna,Tiffin,7,0.0007
+"Extra Salami or Feta",Sandwich,7,0.0007
+Coke,Salad,7,0.0007
+Chocolates,Coffee,7,0.0007
+Salad,Truffles,7,0.0007
+Granola,Tea,7,0.0007
+Scone,Toast,7,0.0007
+"Hearty & Seasonal",Smoothies,6,0.0006
+Frittata,"Mineral water",6,0.0006
+"Hearty & Seasonal",Muffin,6,0.0006
+Focaccia,Tea,6,0.0006
+"Farm House",Jam,6,0.0006
+Bread,"My-5 Fruit Shoot",6,0.0006
+Brownie,Fudge,6,0.0006
+Jam,Medialuna,6,0.0006
+Brownie,"Hearty & Seasonal",6,0.0006
+Cake,Fudge,6,0.0006
+Focaccia,Medialuna,6,0.0006
+Juice,Smoothies,6,0.0006
+Coke,"Hot chocolate",6,0.0006
+Frittata,Muffin,6,0.0006
+"Art Tray",Bread,6,0.0006
+Cake,Jam,6,0.0006
+Bakewell,Juice,6,0.0006
+Coffee,"Lemon and coconut",6,0.0006
+Muffin,Toast,6,0.0006
+Alfajores,Toast,6,0.0006
+Crisps,Juice,6,0.0006
+Pastry,"The Nomad",6,0.0006
+Tiffin,Toast,6,0.0006
+Brownie,Tiffin,6,0.0006
+Baguette,Brownie,6,0.0006
+"Farm House",Soup,6,0.0006
+Coke,"Spanish Brunch",6,0.0006
+Muffin,Tiffin,6,0.0006
+"Farm House",Toast,6,0.0006
+"Duck egg","Spanish Brunch",6,0.0006
+Postcard,Tshirt,6,0.0006
+Bread,"Nomad bag",6,0.0006
+Baguette,"Farm House",6,0.0006
+"Extra Salami or Feta",Toast,6,0.0006
+"Extra Salami or Feta",Tea,6,0.0006
+"Mineral water",Salad,6,0.0006
+Scone,"Spanish Brunch",6,0.0006
+"Chicken Stew",Pastry,6,0.0006
+Coffee,"Nomad bag",6,0.0006
+Cookies,Jam,5,0.0005
+Basket,Coffee,5,0.0005
+Jam,Juice,5,0.0005
+Jam,Muffin,5,0.0005
+"Mineral water",Muffin,5,0.0005
+Jam,Soup,5,0.0005
+Fudge,Pastry,5,0.0005
+Brownie,Scandinavian,5,0.0005
+Coffee,Empanadas,5,0.0005
+"Hot chocolate",Scandinavian,5,0.0005
+"Hearty & Seasonal",Juice,5,0.0005
+Fudge,"Hot chocolate",5,0.0005
+Muffin,Truffles,5,0.0005
+Frittata,Truffles,5,0.0005
+Bakewell,Sandwich,5,0.0005
+Juice,"Vegan mincepie",5,0.0005
+"Jammie Dodgers","Vegan mincepie",5,0.0005
+"Farm House",Juice,5,0.0005
+"Bare Popcorn",Coffee,5,0.0005
+Frittata,Pastry,5,0.0005
+Juice,"The Nomad",5,0.0005
+"Chicken Stew",Toast,5,0.0005
+"Chicken Stew",Medialuna,5,0.0005
+Coke,Toast,5,0.0005
+Tiffin,Truffles,5,0.0005
+Baguette,"Hot chocolate",5,0.0005
+Chocolates,"Hot chocolate",5,0.0005
+Salad,Toast,5,0.0005
+"Chicken Stew",Cookies,5,0.0005
+Alfajores,Baguette,5,0.0005
+Brownie,"Spanish Brunch",5,0.0005
+Coke,Muffin,5,0.0005
+Coke,Scone,5,0.0005
+Coffee,Tacos/Fajita,5,0.0005
+"Hot chocolate",Jam,4,0.0004
+Jam,Tartine,4,0.0004
+Juice,Tartine,4,0.0004
+Fudge,Scandinavian,4,0.0004
+Tea,"Victorian Sponge",4,0.0004
+"Hearty & Seasonal","Pick and Mix Bowls",4,0.0004
+Fudge,Muffin,4,0.0004
+Cookies,"My-5 Fruit Shoot",4,0.0004
+Juice,"Pick and Mix Bowls",4,0.0004
+Alfajores,"Farm House",4,0.0004
+Pastry,Smoothies,4,0.0004
+Focaccia,Pastry,4,0.0004
+"Farm House",Focaccia,4,0.0004
+Focaccia,Fudge,4,0.0004
+Granola,Pastry,4,0.0004
+Brownie,Smoothies,4,0.0004
+Brownie,"My-5 Fruit Shoot",4,0.0004
+Brownie,Frittata,4,0.0004
+"Art Tray",Brownie,4,0.0004
+Frittata,Soup,4,0.0004
+Alfajores,Focaccia,4,0.0004
+"Bread Pudding",Coffee,4,0.0004
+Sandwich,Scandinavian,4,0.0004
+"Art Tray",Cookies,4,0.0004
+Focaccia,Scandinavian,4,0.0004
+"Hearty & Seasonal",Truffles,4,0.0004
+Scandinavian,Truffles,4,0.0004
+"Art Tray","Hearty & Seasonal",4,0.0004
+Coffee,"Dulce de Leche",4,0.0004
+"Jammie Dodgers",Smoothies,4,0.0004
+Bakewell,Cookies,4,0.0004
+"Farm House",Sandwich,4,0.0004
+Jam,Scandinavian,4,0.0004
+Smoothies,Toast,4,0.0004
+Coffee,Crepes,4,0.0004
+Bread,"Dulce de Leche",4,0.0004
+"Mineral water",Toast,4,0.0004
+Scandinavian,Toast,4,0.0004
+Frittata,Juice,4,0.0004
+"Farm House",Scone,4,0.0004
+Scone,"The Nomad",4,0.0004
+Cookies,Frittata,4,0.0004
+Medialuna,"The Nomad",4,0.0004
+"Chicken Stew",Tiffin,4,0.0004
+Coke,Tiffin,4,0.0004
+Alfajores,"Jammie Dodgers",4,0.0004
+"Jammie Dodgers",Scone,4,0.0004
+"Extra Salami or Feta",Juice,4,0.0004
+Cookies,"Extra Salami or Feta",4,0.0004
+"Jammie Dodgers",Truffles,4,0.0004
+Scandinavian,Scone,4,0.0004
+"Jammie Dodgers",Pastry,4,0.0004
+Pastry,"Spanish Brunch",4,0.0004
+"Chicken Stew","Hot chocolate",4,0.0004
+Alfajores,Smoothies,4,0.0004
+"The Nomad",Truffles,4,0.0004
+Baguette,Toast,4,0.0004
+Baguette,Scone,4,0.0004
+Chocolates,Juice,4,0.0004
+Brownie,"Chicken Stew",4,0.0004
+"Mineral water",Tiffin,4,0.0004
+Cookies,Salad,4,0.0004
+Bread,"Christmas common",4,0.0004
+"Mineral water","Spanish Brunch",4,0.0004
+"Chicken Stew",Salad,4,0.0004
+Chocolates,Tea,4,0.0004
+"Art Tray","Spanish Brunch",4,0.0004
+Brownie,"Jammie Dodgers",4,0.0004
+Baguette,Salad,4,0.0004
+"Farm House","Spanish Brunch",4,0.0004
+Bread,Crisps,4,0.0004
+Pastry,Tartine,3,0.0003
+"Mineral water",Scandinavian,3,0.0003
+"Mighty Protein",Tea,3,0.0003
+Frittata,Scandinavian,3,0.0003
+Cake,"My-5 Fruit Shoot",3,0.0003
+"Pick and Mix Bowls",Tartine,3,0.0003
+"Mineral water","Pick and Mix Bowls",3,0.0003
+Cookies,Fudge,3,0.0003
+"Hearty & Seasonal",Pastry,3,0.0003
+Focaccia,Sandwich,3,0.0003
+Alfajores,"Dulce de Leche",3,0.0003
+Scandinavian,Soup,3,0.0003
+Brownie,Jam,3,0.0003
+"Hearty & Seasonal",Medialuna,3,0.0003
+"Hot chocolate","My-5 Fruit Shoot",3,0.0003
+Bread,Empanadas,3,0.0003
+"Farm House",Fudge,3,0.0003
+Alfajores,"Art Tray",3,0.0003
+Jam,Sandwich,3,0.0003
+Cookies,"Keeping It Local",3,0.0003
+"Keeping It Local",Pastry,3,0.0003
+Muffin,"My-5 Fruit Shoot",3,0.0003
+"Kids biscuit",Muffin,3,0.0003
+Fudge,Truffles,3,0.0003
+Cookies,"Hearty & Seasonal",3,0.0003
+"Art Tray",Muffin,3,0.0003
+Bakewell,Pastry,3,0.0003
+Bread,"Lemon and coconut",3,0.0003
+Alfajores,Crepes,3,0.0003
+"Mineral water","Vegan mincepie",3,0.0003
+Cake,Frittata,3,0.0003
+Bakewell,Toast,3,0.0003
+Pastry,"Vegan mincepie",3,0.0003
+Fudge,Juice,3,0.0003
+Alfajores,"Vegan mincepie",3,0.0003
+Frittata,Medialuna,3,0.0003
+Bread,Muesli,3,0.0003
+Coffee,Muesli,3,0.0003
+Brownie,"Vegan mincepie",3,0.0003
+Medialuna,"Mineral water",3,0.0003
+Cookies,"Vegan mincepie",3,0.0003
+"Hot chocolate","The Nomad",3,0.0003
+"Art Tray",Cake,3,0.0003
+Toast,Truffles,3,0.0003
+Alfajores,Salad,3,0.0003
+Eggs,Pastry,3,0.0003
+Baguette,Sandwich,3,0.0003
+Cookies,"The Nomad",3,0.0003
+"Farm House",Tiffin,3,0.0003
+Coffee,"Vegan Feast",3,0.0003
+Muffin,"Spanish Brunch",3,0.0003
+"Chicken Stew","Mineral water",3,0.0003
+Cake,Tacos/Fajita,3,0.0003
+Bread,Tacos/Fajita,3,0.0003
+Juice,Tacos/Fajita,3,0.0003
+Salad,Scandinavian,3,0.0003
+Bakewell,"Hot chocolate",3,0.0003
+Eggs,Juice,3,0.0003
+Cake,Eggs,3,0.0003
+Baguette,"Spanish Brunch",3,0.0003
+Cake,Granola,3,0.0003
+Granola,Sandwich,3,0.0003
+Coke,"Farm House",3,0.0003
+Alfajores,"Chicken Stew",3,0.0003
+Baguette,Muffin,3,0.0003
+"The Nomad",Tiffin,3,0.0003
+Brownie,"Extra Salami or Feta",3,0.0003
+Baguette,Truffles,3,0.0003
+Soup,Toast,3,0.0003
+Baguette,Juice,3,0.0003
+"Art Tray",Salad,3,0.0003
+Chocolates,Coke,3,0.0003
+Cake,"Vegan Feast",3,0.0003
+Sandwich,"The Nomad",3,0.0003
+Tacos/Fajita,Tea,3,0.0003
+Crisps,Truffles,3,0.0003
+Baguette,Tea,3,0.0003
+Jam,"Spanish Brunch",3,0.0003
+Coffee,"Coffee granules ",3,0.0003
+Crisps,"Hot chocolate",3,0.0003
+Granola,Toast,3,0.0003
+Basket,Bread,2,0.0002
+Muffin,Tartine,2,0.0002
+Bread,"Victorian Sponge",2,0.0002
+Frittata,"Hearty & Seasonal",2,0.0002
+Frittata,Jam,2,0.0002
+Cookies,"Pick and Mix Bowls",2,0.0002
+"Farm House","Hearty & Seasonal",2,0.0002
+"Hearty & Seasonal","Mighty Protein",2,0.0002
+Coke,"Hearty & Seasonal",2,0.0002
+Cookies,Tartine,2,0.0002
+Focaccia,"Hearty & Seasonal",2,0.0002
+"Pick and Mix Bowls",Sandwich,2,0.0002
+Brownie,Focaccia,2,0.0002
+Cake,Focaccia,2,0.0002
+"Dulce de Leche",Medialuna,2,0.0002
+Juice,"My-5 Fruit Shoot",2,0.0002
+Honey,Tea,2,0.0002
+Coffee,Honey,2,0.0002
+"Mineral water",Tartine,2,0.0002
+Alfajores,Jam,2,0.0002
+Brownie,Tartine,2,0.0002
+Sandwich,Tartine,2,0.0002
+"Dulce de Leche",Fudge,2,0.0002
+Granola,Scandinavian,2,0.0002
+Basket,"Hot chocolate",2,0.0002
+Medialuna,Smoothies,2,0.0002
+"Hot chocolate",Tartine,2,0.0002
+Brownie,"Pick and Mix Bowls",2,0.0002
+Jam,"Pick and Mix Bowls",2,0.0002
+Coke,Frittata,2,0.0002
+Medialuna,Tartine,2,0.0002
+Empanadas,Tea,2,0.0002
+"Dulce de Leche",Pastry,2,0.0002
+Alfajores,Frittata,2,0.0002
+"Art Tray",Frittata,2,0.0002
+"Bowl Nic Pitt",Coffee,2,0.0002
+Eggs,Fudge,2,0.0002
+Focaccia,Soup,2,0.0002
+Jam,"Keeping It Local",2,0.0002
+Eggs,Scandinavian,2,0.0002
+Bacon,Coffee,2,0.0002
+"Hearty & Seasonal","Keeping It Local",2,0.0002
+Bread,"Kids biscuit",2,0.0002
+"Art Tray",Pastry,2,0.0002
+"Art Tray","My-5 Fruit Shoot",2,0.0002
+"Keeping It Local",Medialuna,2,0.0002
+"Caramel bites",Coffee,2,0.0002
+"My-5 Fruit Shoot",Sandwich,2,0.0002
+Alfajores,"My-5 Fruit Shoot",2,0.0002
+Cookies,Focaccia,2,0.0002
+Cake,"Dulce de Leche",2,0.0002
+"Farm House",Truffles,2,0.0002
+"Hot chocolate","Keeping It Local",2,0.0002
+"Art Tray","Hack the stack",2,0.0002
+Bakewell,"Jammie Dodgers",2,0.0002
+Bakewell,Brownie,2,0.0002
+"Lemon and coconut",Sandwich,2,0.0002
+"Lemon and coconut",Tea,2,0.0002
+Cake,"Lemon and coconut",2,0.0002
+Crepes,Medialuna,2,0.0002
+Toast,"Vegan mincepie",2,0.0002
+Fudge,"The Nomad",2,0.0002
+Brownie,"The Nomad",2,0.0002
+"Art Tray",Truffles,2,0.0002
+Fudge,Toast,2,0.0002
+Bakewell,Medialuna,2,0.0002
+Frittata,Toast,2,0.0002
+Alfajores,Bakewell,2,0.0002
+"Art Tray",Toast,2,0.0002
+Sandwich,"Vegan mincepie",2,0.0002
+Medialuna,"Vegan mincepie",2,0.0002
+"Farm House",Frittata,2,0.0002
+Frittata,Fudge,2,0.0002
+Focaccia,Scone,2,0.0002
+Crisps,"Mineral water",2,0.0002
+Crisps,Medialuna,2,0.0002
+Crisps,Frittata,2,0.0002
+"Bare Popcorn",Juice,2,0.0002
+"Bare Popcorn",Cookies,2,0.0002
+Fudge,"Gingerbread syrup",2,0.0002
+"Brioche and salami",Coffee,2,0.0002
+"Brioche and salami",Tea,2,0.0002
+Frittata,Smoothies,2,0.0002
+"Mineral water",Smoothies,2,0.0002
+Pastry,Salad,2,0.0002
+Coffee,"Gingerbread syrup",2,0.0002
+"Art Tray","Chicken Stew",2,0.0002
+Eggs,"Hot chocolate",2,0.0002
+"Chicken Stew","Jammie Dodgers",2,0.0002
+Soup,Tiffin,2,0.0002
+Tiffin,"Vegan mincepie",2,0.0002
+Coffee,"Half slice Monster ",2,0.0002
+"Half slice Monster ",Juice,2,0.0002
+"Spanish Brunch",Tiffin,2,0.0002
+"Jammie Dodgers","Spanish Brunch",2,0.0002
+Cookies,"Vegan Feast",2,0.0002
+Bakewell,Soup,2,0.0002
+Tacos/Fajita,Truffles,2,0.0002
+Smoothies,Tiffin,2,0.0002
+Salad,Tiffin,2,0.0002
+Bread,"Brioche and salami",2,0.0002
+Scone,Smoothies,2,0.0002
+Bread,Chocolates,2,0.0002
+Chocolates,Cookies,2,0.0002
+Cookies,"Duck egg",2,0.0002
+Cake,"Duck egg",2,0.0002
+"Chicken Stew",Scone,2,0.0002
+Eggs,Medialuna,2,0.0002
+"Duck egg",Truffles,2,0.0002
+Salad,Scone,2,0.0002
+"Christmas common",Jam,2,0.0002
+"Chicken Stew","The Nomad",2,0.0002
+Granola,"Hot chocolate",2,0.0002
+Bread,Honey,2,0.0002
+Muesli,Tea,2,0.0002
+Coke,Crisps,2,0.0002
+Frittata,Salad,2,0.0002
+"Extra Salami or Feta",Scandinavian,2,0.0002
+"Extra Salami or Feta",Truffles,2,0.0002
+Cake,"Coffee granules ",2,0.0002
+Coke,Smoothies,2,0.0002
+Salad,Smoothies,2,0.0002
+"Hot chocolate",Salad,2,0.0002
+Granola,"Spanish Brunch",2,0.0002
+Jam,Scone,2,0.0002
+"Farm House",Salad,2,0.0002
+Cake,"Nomad bag",2,0.0002
+"Chicken Stew",Smoothies,2,0.0002
+"Extra Salami or Feta","Hot chocolate",2,0.0002
+"Raw bars",Tea,2,0.0002
+Cookies,Crisps,2,0.0002
+"Mineral water",Pastry,2,0.0002
+Tshirt,"Valentine's card",2,0.0002
+"Chicken Stew",Fudge,2,0.0002
+Granola,Juice,2,0.0002
+"Chicken Stew",Granola,2,0.0002
+Muffin,Salad,2,0.0002
+Baguette,Bakewell,2,0.0002
+"Argentina Night",Tea,2,0.0002
+Muffin,"The Nomad",2,0.0002
+"Hearty & Seasonal",Scone,2,0.0002
+Fudge,"Spanish Brunch",2,0.0002
+"Duck egg","Extra Salami or Feta",2,0.0002
+Bread,"Duck egg",2,0.0002
+"Chicken Stew","Extra Salami or Feta",2,0.0002
+Smoothies,"The Nomad",2,0.0002
+"Extra Salami or Feta",Soup,2,0.0002
+Jam,Salad,2,0.0002
+Coke,Tacos/Fajita,2,0.0002
+Soup,"Victorian Sponge",1,0.0001
+"Hot chocolate","Victorian Sponge",1,0.0001
+"Pick and Mix Bowls",Smoothies,1,0.0001
+"Mighty Protein",Tartine,1,0.0001
+"Chicken sand",Frittata,1,0.0001
+"Chicken sand",Coffee,1,0.0001
+"Chicken sand",Tea,1,0.0001
+"Chicken sand",Scandinavian,1,0.0001
+"Pick and Mix Bowls",Tea,1,0.0001
+Coke,"Mighty Protein",1,0.0001
+"Hearty & Seasonal",Scandinavian,1,0.0001
+Coke,Tartine,1,0.0001
+Coke,"Pick and Mix Bowls",1,0.0001
+Alfajores,"Pick and Mix Bowls",1,0.0001
+Juice,"Mighty Protein",1,0.0001
+"My-5 Fruit Shoot",Tartine,1,0.0001
+"My-5 Fruit Shoot",Pastry,1,0.0001
+Focaccia,"Pick and Mix Bowls",1,0.0001
+Bread,"Pick and Mix Bowls",1,0.0001
+Cookies,Honey,1,0.0001
+Bread,"The BART",1,0.0001
+Alfajores,Tartine,1,0.0001
+Fudge,Granola,1,0.0001
+"My-5 Fruit Shoot",Scandinavian,1,0.0001
+Cake,"Mighty Protein",1,0.0001
+Scandinavian,"Victorian Sponge",1,0.0001
+Cake,"Victorian Sponge",1,0.0001
+"Fairy Doors",Focaccia,1,0.0001
+"Hot chocolate","Pick and Mix Bowls",1,0.0001
+"Pick and Mix Bowls",Soup,1,0.0001
+Basket,"Farm House",1,0.0001
+Focaccia,Muffin,1,0.0001
+"Mighty Protein",Soup,1,0.0001
+Alfajores,"Victorian Sponge",1,0.0001
+Empanadas,Muffin,1,0.0001
+Alfajores,Empanadas,1,0.0001
+Scandinavian,Tartine,1,0.0001
+Empanadas,Scandinavian,1,0.0001
+Empanadas,Medialuna,1,0.0001
+"Farm House",Tartine,1,0.0001
+"Bowl Nic Pitt",Brownie,1,0.0001
+"Bowl Nic Pitt","Hearty & Seasonal",1,0.0001
+"Bowl Nic Pitt",Soup,1,0.0001
+"Bread Pudding",Sandwich,1,0.0001
+"Bread Pudding",Fudge,1,0.0001
+"Bread Pudding",Jam,1,0.0001
+"Bread Pudding",Soup,1,0.0001
+Empanadas,Soup,1,0.0001
+"Chimichurri Oil",Scandinavian,1,0.0001
+"Chimichurri Oil","Farm House",1,0.0001
+"Fairy Doors",Scandinavian,1,0.0001
+Fudge,Soup,1,0.0001
+Coke,Fudge,1,0.0001
+"Bowl Nic Pitt",Frittata,1,0.0001
+"Bowl Nic Pitt",Muffin,1,0.0001
+"Keeping It Local",Scandinavian,1,0.0001
+Alfajores,"Keeping It Local",1,0.0001
+"Keeping It Local",Muffin,1,0.0001
+"Art Tray",Bacon,1,0.0001
+Bacon,Juice,1,0.0001
+Jam,Spread,1,0.0001
+Bread,Spread,1,0.0001
+Frittata,"Keeping It Local",1,0.0001
+"Art Tray",Tartine,1,0.0001
+"Kids biscuit","My-5 Fruit Shoot",1,0.0001
+Fudge,"My-5 Fruit Shoot",1,0.0001
+Fudge,"Kids biscuit",1,0.0001
+"Kids biscuit","Mineral water",1,0.0001
+"My-5 Fruit Shoot",Soup,1,0.0001
+"Caramel bites",Medialuna,1,0.0001
+"Keeping It Local",Soup,1,0.0001
+"Kids biscuit",Soup,1,0.0001
+Bread,"Caramel bites",1,0.0001
+"Caramel bites","Jammie Dodgers",1,0.0001
+"Jammie Dodgers","My-5 Fruit Shoot",1,0.0001
+"Caramel bites","My-5 Fruit Shoot",1,0.0001
+"Kids biscuit",Tea,1,0.0001
+"Caramel bites",Tea,1,0.0001
+"Caramel bites","Kids biscuit",1,0.0001
+"Jammie Dodgers",Scandinavian,1,0.0001
+Juice,Scandinavian,1,0.0001
+"Keeping It Local",Smoothies,1,0.0001
+Focaccia,Juice,1,0.0001
+Brownie,"Dulce de Leche",1,0.0001
+"Farm House","Keeping It Local",1,0.0001
+"Keeping It Local","My-5 Fruit Shoot",1,0.0001
+Cake,"Keeping It Local",1,0.0001
+Bread,"Olum & polenta",1,0.0001
+Polenta,Tea,1,0.0001
+Coffee,"Hack the stack",1,0.0001
+"Hack the stack","My-5 Fruit Shoot",1,0.0001
+"My-5 Fruit Shoot",Tea,1,0.0001
+"Hack the stack",Tea,1,0.0001
+Brownie,"Keeping It Local",1,0.0001
+Tartine,"The Nomad",1,0.0001
+Bakewell,Smoothies,1,0.0001
+Bakewell,Muffin,1,0.0001
+"Hearty & Seasonal",Tartine,1,0.0001
+"Art Tray",Bakewell,1,0.0001
+Jam,Smoothies,1,0.0001
+Bakewell,"Lemon and coconut",1,0.0001
+Fudge,"Keeping It Local",1,0.0001
+"Art Tray","Keeping It Local",1,0.0001
+Fudge,Spread,1,0.0001
+Fudge,Tartine,1,0.0001
+Crepes,Sandwich,1,0.0001
+Bread,Crepes,1,0.0001
+Crepes,"Farm House",1,0.0001
+Crepes,Scone,1,0.0001
+"Art Tray","Jammie Dodgers",1,0.0001
+Jam,Toast,1,0.0001
+Scandinavian,"Vegan mincepie",1,0.0001
+Bakewell,"Farm House",1,0.0001
+"Lemon and coconut",Scone,1,0.0001
+"Dulce de Leche",Scandinavian,1,0.0001
+Coke,Pintxos,1,0.0001
+Muesli,"The Nomad",1,0.0001
+Cake,Tartine,1,0.0001
+"The Nomad",Toast,1,0.0001
+"Art Tray","Bare Popcorn",1,0.0001
+"Bare Popcorn",Brownie,1,0.0001
+"Bare Popcorn",Muffin,1,0.0001
+"Bare Popcorn",Cake,1,0.0001
+Cookies,Panatone,1,0.0001
+Cake,Panatone,1,0.0001
+Muffin,Panatone,1,0.0001
+Brownie,Panatone,1,0.0001
+Coffee,Panatone,1,0.0001
+Juice,Panatone,1,0.0001
+"Bare Popcorn",Panatone,1,0.0001
+"Art Tray",Panatone,1,0.0001
+"Gingerbread syrup",Tea,1,0.0001
+"Gingerbread syrup",Juice,1,0.0001
+"Gingerbread syrup",Muffin,1,0.0001
+"Gingerbread syrup",Jam,1,0.0001
+"Brioche and salami",Cake,1,0.0001
+"Brioche and salami",Scone,1,0.0001
+Juice,"Lemon and coconut",1,0.0001
+Smoothies,Truffles,1,0.0001
+Fudge,Smoothies,1,0.0001
+Frittata,"Vegan mincepie",1,0.0001
+"Extra Salami or Feta",Granola,1,0.0001
+Alfajores,Eggs,1,0.0001
+"Hot chocolate",Tshirt,1,0.0001
+Bread,Tshirt,1,0.0001
+Pastry,"Vegan Feast",1,0.0001
+"Half slice Monster ",Tiffin,1,0.0001
+"Chicken Stew",Muffin,1,0.0001
+Jam,"The Nomad",1,0.0001
+Bread,"Vegan Feast",1,0.0001
+Brownie,"Vegan Feast",1,0.0001
+"Hot chocolate","Vegan Feast",1,0.0001
+Alfajores,Tacos/Fajita,1,0.0001
+Focaccia,Jam,1,0.0001
+Salad,"Valentine's card",1,0.0001
+Cake,"Valentine's card",1,0.0001
+Coke,Tshirt,1,0.0001
+"Nomad bag",Scandinavian,1,0.0001
+"Chicken Stew",Eggs,1,0.0001
+Soup,"The Nomad",1,0.0001
+"Duck egg","Hot chocolate",1,0.0001
+Eggs,"Farm House",1,0.0001
+Baguette,"Vegan mincepie",1,0.0001
+"Duck egg",Sandwich,1,0.0001
+"Duck egg",Soup,1,0.0001
+Coke,"The Nomad",1,0.0001
+Granola,Medialuna,1,0.0001
+Granola,Muffin,1,0.0001
+Honey,"Jammie Dodgers",1,0.0001
+Honey,Pastry,1,0.0001
+"Half slice Monster ","Hot chocolate",1,0.0001
+"Half slice Monster ","My-5 Fruit Shoot",1,0.0001
+Cake,Crisps,1,0.0001
+Bread,"Gingerbread syrup",1,0.0001
+"Nomad bag",Postcard,1,0.0001
+"Nomad bag",Tshirt,1,0.0001
+Alfajores,"The Nomad",1,0.0001
+"Art Tray","The Nomad",1,0.0001
+Cookies,Eggs,1,0.0001
+Fudge,Scone,1,0.0001
+"Jammie Dodgers",Toast,1,0.0001
+Coke,"Extra Salami or Feta",1,0.0001
+Jam,Truffles,1,0.0001
+"Argentina Night","Vegan Feast",1,0.0001
+Baguette,Fudge,1,0.0001
+Bakewell,Truffles,1,0.0001
+Tacos/Fajita,Toast,1,0.0001
+Cookies,Muesli,1,0.0001
+"Hearty & Seasonal",Tiffin,1,0.0001
+"Art Tray",Coke,1,0.0001
+Bakewell,"Spanish Brunch",1,0.0001
+"Bare Popcorn",Salad,1,0.0001
+"Bare Popcorn","Extra Salami or Feta",1,0.0001
+"Bare Popcorn","Spanish Brunch",1,0.0001
+"Extra Salami or Feta","Farm House",1,0.0001
+"Bare Popcorn","Farm House",1,0.0001
+"Farm House","Gingerbread syrup",1,0.0001
+Granola,"The Nomad",1,0.0001
+Cookies,Granola,1,0.0001
+Granola,Scone,1,0.0001
+Tea,"Vegan Feast",1,0.0001
+Coffee,Postcard,1,0.0001
+Brownie,Salad,1,0.0001
+Medialuna,Salad,1,0.0001
+"Art Tray",Baguette,1,0.0001
+Chocolates,"Jammie Dodgers",1,0.0001
+"Nomad bag",Scone,1,0.0001
+"Farm House",Smoothies,1,0.0001
+"Chicken Stew","Farm House",1,0.0001
+"Art Tray",Scone,1,0.0001
+Muffin,"Vegan Feast",1,0.0001
+Chocolates,Sandwich,1,0.0001
+Honey,Scandinavian,1,0.0001
+"Christmas common","Hot chocolate",1,0.0001
+"Hot chocolate","Lemon and coconut",1,0.0001
+Frittata,"The Nomad",1,0.0001
+"Farm House","Jammie Dodgers",1,0.0001
+Fudge,Tshirt,1,0.0001
+Eggs,"Jammie Dodgers",1,0.0001
+"Duck egg",Jam,1,0.0001
+"Coffee granules ","Extra Salami or Feta",1,0.0001
+"Coffee granules ",Salad,1,0.0001
+Cookies,"Half slice Monster ",1,0.0001
+Granola,"Mineral water",1,0.0001
+Bakewell,Coke,1,0.0001
+Bakewell,"Mineral water",1,0.0001
+Bakewell,Salad,1,0.0001
+Baguette,"Extra Salami or Feta",1,0.0001
+"Extra Salami or Feta",Muffin,1,0.0001
+Crisps,Smoothies,1,0.0001
+Alfajores,Crisps,1,0.0001
+"Argentina Night",Granola,1,0.0001
+Bread,Panatone,1,0.0001
+"Bare Popcorn",Sandwich,1,0.0001
+"Bare Popcorn","Hot chocolate",1,0.0001
+"Bare Popcorn",Crisps,1,0.0001
+Granola,Tiffin,1,0.0001
+Postcard,"Valentine's card",1,0.0001
+"Duck egg",Toast,1,0.0001
+Brownie,"Duck egg",1,0.0001
+"Chicken Stew","Duck egg",1,0.0001
+Bread,"Gift voucher",1,0.0001
+"Argentina Night",Bread,1,0.0001
+"Argentina Night",Sandwich,1,0.0001
+"Nomad bag",Sandwich,1,0.0001
+"Nomad bag","Spanish Brunch",1,0.0001
+Juice,"Nomad bag",1,0.0001
+"Coffee granules ","Farm House",1,0.0001
+Bakewell,Scone,1,0.0001
+Alfajores,"Brioche and salami",1,0.0001
+Muffin,Tacos/Fajita,1,0.0001
+"Gingerbread syrup",Pastry,1,0.0001
+"Gingerbread syrup",Medialuna,1,0.0001
+Truffles,"Vegan mincepie",1,0.0001
+"Chicken Stew",Focaccia,1,0.0001
+Bakewell,"Chicken Stew",1,0.0001
+Coffee,Tshirt,1,0.0001
+Truffles,Tshirt,1,0.0001
+"Nomad bag",Pastry,1,0.0001
+Eggs,"Nomad bag",1,0.0001
+Cake,Chocolates,1,0.0001
+Granola,Smoothies,1,0.0001
+Coke,Granola,1,0.0001
+"Duck egg","The Nomad",1,0.0001
+Cake,"Half slice Monster ",1,0.0001
+Alfajores,Chocolates,1,0.0001
+Chocolates,Tiffin,1,0.0001
+Chocolates,Pastry,1,0.0001
+Chocolates,"Mineral water",1,0.0001
+"Christmas common",Scandinavian,1,0.0001
+Cake,"Christmas common",1,0.0001
+Baguette,"Christmas common",1,0.0001
+"Christmas common",Truffles,1,0.0001
+"Christmas common",Tea,1,0.0001
+"Christmas common","Spanish Brunch",1,0.0001
+Fudge,Panatone,1,0.0001
+Focaccia,Panatone,1,0.0001
+Fudge,"Jammie Dodgers",1,0.0001
+Frittata,"Jammie Dodgers",1,0.0001
+"Extra Salami or Feta",Jam,1,0.0001
+"Extra Salami or Feta",Frittata,1,0.0001
+"Extra Salami or Feta","Mineral water",1,0.0001
+Jam,"Mineral water",1,0.0001
+"Farm House","The Nomad",1,0.0001
+"Chicken Stew",Chocolates,1,0.0001
+"Farm House","Nomad bag",1,0.0001
+Eggs,Tea,1,0.0001
+"Art Tray",Medialuna,1,0.0001
+"Farm House","Mineral water",1,0.0001
+"Jammie Dodgers","Vegan Feast",1,0.0001
+Baguette,Coke,1,0.0001
+"Coffee granules ",Mortimer,1,0.0001
+Honey,Tacos/Fajita,1,0.0001
+Cake,Honey,1,0.0001
