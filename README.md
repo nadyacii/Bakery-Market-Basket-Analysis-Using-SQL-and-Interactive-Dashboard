@@ -132,6 +132,7 @@ Bisa ditawarkan dengan harga sedikit lebih murah dibanding membeli satuan.
 
 ### 4. Upselling & Cross-Selling
 - Tambahkan rekomendasi item saat pembelian untuk mendorong pembelian tambahan
+
 Contoh: “Mau sekalian coba cakenya kak buat nemenin ngopi enak lho?”
 - Tampilkan paket bundling di kasir atau di platform online untuk mendorong penjualan tambahan.
 
