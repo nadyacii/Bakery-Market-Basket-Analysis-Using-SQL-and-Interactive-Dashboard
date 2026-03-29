@@ -1,6 +1,9 @@
 # Bakery Market Basket Analysis Using SQL and Interactive Dashboard
 This is Data Analyst project explores bakery customer purchase patterns using SQL and an interactive dashboard. It applies Market Basket Analysis to identify frequent item combinations and generate insights for product bundling, cross-selling, and data-driven business decisions.
 
+ ![Dashboard_Bakery](dashboard/Bakery_Market_Basket_Analysis.jpg)
+ 
+
 ## 1. Problem Statement
 Dalam bisnis bakery, memahami pola pembelian pelanggan merupakan hal penting untuk meningkatkan penjualan dan efektivitas strategi pemasaran. Namun, seringkali data transaksi hanya digunakan sebagai catatan penjualan tanpa dianalisis lebih lanjut.
 
@@ -137,5 +140,6 @@ Contoh: “Mau sekalian coba cakenya kak buat nemenin ngopi enak lho?”
 - Bisa ditambahkan menu seasonal atau limited edition untuk meningkatkan ketertarikan pelanggan.
 
 ## 8. Dashboard
- ![Dashboard_Bakery](dashboard/Bakery_Market_Basket_Analysis.jpg)
+https://lookerstudio.google.com/reporting/e2f2269d-a579-4a31-9ead-11e8b69c74a8
+
 
