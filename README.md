@@ -58,15 +58,15 @@ Proses yang dilakukan meliputi:
 Melakukan eksplorasi data untuk memahami gambaran umum dataset:
 
 - Menghitung total transaksi unik
-Menghitung jumlah item unik yang dijual
+- Menghitung jumlah item unik yang dijual
 
-- Tahap ini bertujuan untuk memahami skala data sebelum dilakukan analisis lebih lanjut.
+Hal ini bertujuan untuk memahami skala data sebelum dilakukan analisis lebih lanjut.
 
 ### 3. Sales Analysis
 
 Menganalisis pola penjualan berdasarkan waktu dan produk:
 
-- Penjualan berdasarkan period day (morning, afternoon, dll)
+- Penjualan berdasarkan period day (morning, afternoon, evening, night)
 - Penjualan berdasarkan weekday vs weekend
 - Identifikasi top-selling items
 
@@ -107,9 +107,9 @@ Analisis ini digunakan untuk mengidentifikasi produk yang sering dibeli bersamaa
 - Indikasi kuat pelanggan mencari makanan manis untuk menemani kopi.
 
 ### 3. Analisis Waktu Penjualan (Period Day)
-- Penjualan tertinggi di Afternoon (11.535 unit), disusul Morning (8.381 unit).
-- Penjualan rendah di Evening dan Night (~500 unit).
-- Pola menunjukkan peak hours utama: pagi hingga siang.
+- Penjualan tertinggi di Night (6.812 unit), disusul Morning (5.952 unit).
+- Penjualan terendah ada di Evening (3.408 unit).
+- Pola menunjukkan peak hours utama: sore ke malam.
 
 ### 4. Perbandingan Weekday vs Weekend
 - Total volume lebih tinggi di Weekday (12.767) dibanding Weekend (7.665).
@@ -123,12 +123,12 @@ Analisis ini digunakan untuk mengidentifikasi produk yang sering dibeli bersamaa
   - Afternoon Treat: Cake + Coffee atau Coffee + Pastry
 Bisa ditawarkan dengan harga sedikit lebih murah dibanding membeli satuan.
 ### 2. Promosi Berdasarkan Waktu
-- Fokus promosi pada Morning & Afternoon untuk mendorong penjualan item unggulan.
+- Fokus promosi pada waktu Afternoon & Evening untuk mendorong penjualan item unggulan.
 - Perkenalkan Happy Hour atau diskon khusus di Evening untuk meningkatkan penjualan saat jam sepi.
 
 ### 3. Pengelolaan Stok dan Inventaris
 - Sesuaikan stok dengan pola penjualan: lebih banyak Coffee, Bread, dan Cake di pagi & siang.
-- Kurangi stok untuk item yang jarang terjual di malam hari atau tawarkan dalam bentuk paket promo.
+- Kurangi stok untuk item yang jarang terjual di sore hari atau tawarkan dalam bentuk paket promo.
 
 ### 4. Upselling & Cross-Selling
 - Tambahkan rekomendasi item saat pembelian untuk mendorong pembelian tambahan
